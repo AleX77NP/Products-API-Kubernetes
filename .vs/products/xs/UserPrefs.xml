@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{30D7B435-04C0-4A4A-9007-004B8BD0E62B}|Default">
+  <MonoDevelop.Ide.ItemProperties.products PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="products/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="ProductsService.Tests/ProductsControllerTests.cs" Line="35" Column="1" />
+      <File FileName="products/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="products/Controllers/ProductsController.cs" Line="27" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="products" expanded="True">
+            <Node name="products" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="ProductsService.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
